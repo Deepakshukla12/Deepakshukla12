@@ -1,4 +1,4 @@
-## Hi, I'm Deepak 👋<br><br>- 🤙 Penultimate Computer Science Engineering Student.<br/><br>- 🔭 Currently doing internship at Meridian Solutions.<br/><br>- ⚡ IBM Solvathon Winner.<br/><br>- 🤔 Have solved 500+ problems on leetcode.<br/><br>- 💬 Good at Full stack development and Machine Learning.<br/><br>- 📫 How to reach me: 1209deepak.shukla@gmail.com.<br/><br><br>
+## Hi, I'm Deepak 👋<br><br>- 🤙 Final Year Computer Science Engineering Student.<br/><br>- 🔭 Currently doing internship at Meridian Solutions.<br/><br>- ⚡ IBM Solvathon Winner.<br/><br>- 🤔 Have solved 500+ problems on leetcode.<br/><br>- 💬 Good at Full stack development and Machine Learning.<br/><br>- 📫 How to reach me: 1209deepak.shukla@gmail.com.<br/><br><br>
 
 
 ## 🌐 Socials:
